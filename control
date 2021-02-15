@@ -1,11 +1,11 @@
 Package: com.lg.tsum
-Name: TsumTsum
+Name: 
 Depends: mobilesubstrate
-Version: 1.90.3
+Version: 
 Architecture: iphoneos-arm
 Description:  
-Maintainer: System Administrator
-Author: System Administrator
+Maintainer: 
+Author: 
 Section: Tweaks
-Depiction: https://username.github.io/repo/depictions/?p=com.lg.tsum
+Depiction:
 Homepage: 
